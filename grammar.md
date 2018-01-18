@@ -54,5 +54,7 @@ Hedlī- yesterday
 
 Tedlī- later
 
+To say "the book" you must use feature "o'" so it will be "o'xacō"
+
 
 
