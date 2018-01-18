@@ -3,7 +3,7 @@
 Ok what it's "xacōlang"? 
 It's my second constracted language, which 
 I am creating. I've been inspired by aztec language called "nahuatl",
-but...I've done some changes in nahautl's grammar. I added conjugation and I want to smaller number of tenses. I want to make completely different vocabulary and very easy language for everyone. 
+but...I've done some changes in nahautl's grammar. I added conjugation and I want my conlang to have smaller number of tenses. I plan to create completely different vocabulary and a very easy language for everyone. 
 
 
 # what it means "xacō"?
