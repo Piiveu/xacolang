@@ -39,7 +39,7 @@ Tī zapoco xacō - formal version
 You can only build sentence in SVO order.
 
 # Tenses
-In xacōlang there is no tenses:
+In xacōlang tenses do not excist:
 
 
 Hedlī zapaca xacō - Yesterday I was reading a book
