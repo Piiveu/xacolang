@@ -2,7 +2,8 @@
 # Grammar
 
 
-Xacōlang is easy language, so it hasn't got any case. Xacōlang has only 1 regular conjugation. 
+Xacōlang is easy language, so it hasn't got any cases. 
+Xacōlang has only 1 regular conjugation. 
 
 English|Xacō
 -------|----
@@ -39,7 +40,7 @@ Tī zapoco xacō - formal version
 You can only build sentence in SVO order.
 
 # Tenses
-In xacōlang tenses do not excist:
+In xacōlang tenses do not exist:
 
 
 Hedlī zapaca xacō - Yesterday I was reading a book
