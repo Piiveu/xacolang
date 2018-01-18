@@ -4,3 +4,14 @@ a|b|c|d|e|h|i|j|l|m|n|o|q|p|s|t|u|x|z
 --|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--
 /a/|/b/|/k/|/d/|/ɛ/|/x/|/i/|/χ/|/l/|/m/|/n/|/ɔ/|/k/|/p/|/s/|/t/|/u/|/ʃ/|/t͡s/
 
+ō - it's a little bit longer vowel than "o"
+
+ā - it's a little bit longer vowel than "a"
+
+ē - it's a little bit longer vowel than "e"
+
+ī - it's a little bit longer vowel than "i"
+
+ū- it is a little bit longer vowel than "u"
+
+
