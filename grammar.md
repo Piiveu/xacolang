@@ -34,7 +34,7 @@ Tī zapoco xacō - formal version
 
 You can only build sentence in SVO order.
 
-# Past Tenses
+# Past Tense
 
 Person|Ending in Past Tense
 ------|----------------------
