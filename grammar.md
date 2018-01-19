@@ -23,14 +23,10 @@ Person|Ending
 ------|------
 Ē|-a
 Tī|-u
-Nū|-o
-Nā|-o
-Īp|-o
+Nū Nā Īp|-o
 Mēnna|-ama
 Tīppa|-una
-Nūla|-oqa
-Nāla|-oqa
-Īpla|-oqa
+Nūla Nāla Īpla|-oqa
 
 Tī zapocu xacō - informal version
 
@@ -38,23 +34,36 @@ Tī zapoco xacō - formal version
 
 You can only build sentence in SVO order.
 
-# Tenses
-In xacōlang tenses do not excist:
+# Past Tenses
 
+Person|Ending in Past Tense
+------|----------------------
+Ē|-ī
+Tī|-e
+Nū Nā Īp|-u
+Mēnna|-īma
+Tīppa|-ena
+Nūla Nāla Īpla|-uqa
 
-Hedlī zapaca xacō - Yesterday I was reading a book
+E.G.:
 
-Zapaca xacō -I am reading a book
+Ē zapacī xacō - I was reading a book
 
-Tedlī zapaca xacō - I will be reading a book later.
+# Future Tense
 
+When you want to make future tense, you must add verb capo (to do, to make) in good form and add verb infinitive.
 
+E.G.:
 
-Hedlī- yesterday
+Ē capa zapaco xacō - I will read a book
 
-Tedlī- later
+# Features
 
-To say "the book" you must use feature "o'" so it will be "o'xacō"
+When you want to say "the book" you must use feature "o'", so it will be "o'xacō"
+
+E.G.
+
+Ē zapoca o'xacō - I am reading the/this book
 
 
 
