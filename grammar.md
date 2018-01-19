@@ -51,7 +51,7 @@ E.G.:
 
 # Future Tense
 
-When you want to make future tense, you must add verb capo (to do, to make) in good form and add verb infinitive.
+When you want to make future tense, you must add verb capo (to do, to make) in good form and add verb in infinitive.
 
 E.G.:
 
