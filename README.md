@@ -8,7 +8,7 @@ but...I've done some changes in grammar of nahuatl. I' ve made conjugation and I
 
 # what it means "xacō"?
 
-"Xacō" (/ʃako/) means "a book". It isn't any reference to any language, but...it sounds very well in my opinion, doesn't it?
+"Xacō" (/ʃako/) means "a book". It isn't any reference to any language, but...it sounds very nice, doesn't it?
 
 # what next?
 I treat it as fun and I will have much fun of creating this language. I invite you to see my language and I hope you will enjoy it.
