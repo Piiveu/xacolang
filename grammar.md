@@ -86,6 +86,8 @@ carrā - a glass
 
 cofē- coffee
 
+retico - to write
+
 
 
 
@@ -104,3 +106,32 @@ their|nāl-
 tīhamaxabla - your dress
 
 nūlxacō- their book
+
+# adjectives & adverbs
+
+adjectives ends with any consonant
+
+āguel - beutiful
+
+dael - easy
+
+adverbs ends with nasal vowel -ö or - ë
+
+āguelö - beautifully
+
+daelë - easly
+
+# questions
+
+To make question you only need to make sentence in order VSO.
+
+zapacu xacō? - Are you reading a book?
+
+# subjuntive
+
+to make subjunctive you need to use verb erbo - to want
+
+xacō erba zapaco - I would to read a book.
+
+erbu zapaco xacō? - Would you read a book?
+
