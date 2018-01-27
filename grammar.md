@@ -127,11 +127,13 @@ To make question you only need to make sentence in order VSO.
 
 zapacu xacō? - Are you reading a book?
 
-# subjuntive
+# subjunctive
 
 to make subjunctive you need to use verb erbo - to want
 
 xacō erba zapaco - I would to read a book.
 
 erbu zapaco xacō? - Would you read a book?
+
+
 
