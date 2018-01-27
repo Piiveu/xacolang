@@ -13,5 +13,4 @@ a|b|c|d|e|h|i|j|l|m|n|o|q|p|s|t|u|x|z|'
 ī - it's a slightly longer vowel than "i"
 
 ū- it's a slightly longer vowel than "u"
-
-« ' » means a little pause in pronunciation of a word.
+.
