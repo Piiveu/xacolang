@@ -113,13 +113,13 @@ adjectives ends with any consonant
 
 āguel - beutiful
 
-dael - easy
+da'el - easy
 
 adverbs ends with nasal vowel -ö or - ë
 
 āguelö - beautifully
 
-daelë - easly
+da'elë - easly
 
 # questions
 
