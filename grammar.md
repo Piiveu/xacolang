@@ -2,7 +2,7 @@
 # Grammar
 
 
-Xacōlang is easy language, so it hasn't got any case. Xacōlang has only 1 regular conjugation. 
+Xacōlang has got 2 cases: nominativus and genetivus. Xacōlang has only 1 regular conjugation. 
 
 English|Xacō
 -------|----
@@ -28,26 +28,26 @@ Mēnna|-ama
 Tīppa|-una
 Nūla Nāla Īpla|-oqa
 
-Tī zapocu xacō - informal version
+xacō tī zapacu- informal version
 
-Tī zapoco xacō - formal version
+xacō tī zapoco  - formal version
 
-You can only build sentence in SVO order.
+You can only build sentence in OSV order.
 
 # Past Tense
 
 Person|Ending in Past Tense
 ------|----------------------
-Ē|-ī
+Ē|-i
 Tī|-e
 Nū Nā Īp|-u
-Mēnna|-īma
+Mēnna|-ima
 Tīppa|-ena
 Nūla Nāla Īpla|-uqa
 
 E.G.:
 
-Ē zapacī xacō - I was reading a book
+xacō ē zapoci - I was reading a book
 
 # Future Tense
 
@@ -55,15 +55,52 @@ When you want to make future tense, you must add verb capo (to do, to make) in g
 
 E.G.:
 
-Ē capa zapaco xacō - I will read a book
+xacō ē capa zapaco - I will read a book
 
 # Features
 
-When you want to say "the book" you must use feature "o'", so it will be "o'xacō"
+When you want to say "this/that book" you must use feature "o'", so it will be "o'xacō"
+
+Xacō doesn't have feature like "the", "a"or "an"
 
 E.G.
 
-Ē zapoca o'xacō - I am reading the/this book
+Ē zapoca o'xacō - I am reading this/that book
 
 
+# nouns
 
+nouns ends with endings:
+
+  /        |singular|plural
+-----------|--------|-------
+nominativus|-ā, -ē, -ū, -ī, -ō|-ās, -ēs,-ūs, -īs, -ōs|
+genetivus|-ān, -ēn, -ūn, -īn, -ōn|-āns, -ēns, -ūns, -īns, -ōns|
+
+
+xacō retica - I am writing a book.
+
+carrā cafēn - glass of coffee.
+
+carrā - a glass
+
+cofē- coffee
+
+e'o - to be
+
+reticoretico - to write
+
+English|xacō
+-------|----
+my|mī-
+your|tī-
+his|nū-
+her|nā-
+our|mē-
+your|tē-
+their|nūl-
+their|nāl-
+
+tīhamaxabla - your dress
+
+nūlxacō-nūlxacō- their book
