@@ -86,9 +86,9 @@ carrā - a glass
 
 cofē- coffee
 
-e'o - to be
 
-reticoretico - to write
+
+
 
 English|xacō
 -------|----
@@ -103,4 +103,4 @@ their|nāl-
 
 tīhamaxabla - your dress
 
-nūlxacō-nūlxacō- their book
+nūlxacō- their book
