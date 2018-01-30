@@ -4,6 +4,8 @@
 
 Xacōlang has got 2 cases: nominativus and genetivus. Xacōlang has only 1 regular conjugation. 
 
+Features as subject:
+
 English|Xacō
 -------|----
 I | Ē
@@ -16,6 +18,23 @@ You | Tīppa
 They | Nūla
 They | Nāla
 They | Īpla 
+
+Features as object:
+
+English|Xacō
+-------|----
+Me|Mē
+You|Zī
+Him|Enī
+Her|Anī
+It|Ēpī 
+Us|Emā 
+You|Tepē
+Them|Nūpī 
+Them|Nāpī
+Them|Ēppī
+
+
 
 # Verbs
 
