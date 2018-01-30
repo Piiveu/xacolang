@@ -25,14 +25,14 @@ English|Xacō
 -------|----
 Me|Mē
 You|Zī
-Him|Enī
-Her|Anī
-It|Ēpī 
-Us|Emā 
-You|Tepē
+Him|Nē
+Her|Nī
+It|Īb 
+Us|Mēppī 
+You|Zīppa
 Them|Nūpī 
 Them|Nāpī
-Them|Ēppī
+Them|Ībbī
 
 
 
