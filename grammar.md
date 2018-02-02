@@ -74,7 +74,7 @@ When you want to make future tense, you must add verb capo (to do, to make) in g
 
 E.G.:
 
-xacō ē capa zapaco - I will read a book
+zapaco xacō ē capa - I will read a book
 
 # Features
 
@@ -128,17 +128,17 @@ nūlxacō- their book
 
 # adjectives & adverbs
 
-adjectives ends with any consonant
+Adverbs and adjective do not excist. In xacō we have prefixes and sufixes that specifies verbs and nouns. E.G.:
 
-āguel - beutiful
+prefix ag- means sth beautiful, so:
 
-da'el - easy
+agxacō - a beautiful book
 
-adverbs ends with nasal vowel -ö or - ë
+agcapo - to do/make sth beautifully
 
-āguelö - beautifully
+lixacōs nā agzapoco - she beautifully reads good books.
 
-da'elë - easly
+aglixacō (or liagxacō) - beautiful and good book
 
 # questions
 
