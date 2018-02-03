@@ -128,17 +128,22 @@ nūlxacō- their book
 
 # adjectives & adverbs
 
-Adverbs and adjective do not excist. In xacō we have prefixes and sufixes that specifies verbs and nouns. E.G.:
+Adverbs do not excist. In xacō we have prefixes and sufixes that specifies verbs. E.G.:
 
 prefix ag- means sth beautiful, so:
 
-agxacō - a beautiful book
 
 agcapo - to do/make sth beautifully
 
-lixacōs nā agzapoco - she beautifully reads good books.
+Adjectives ends with every ending. E.G.:
 
-aglixacō (or liagxacō) - beautiful and good book
+aguell - beautiful
+
+lil - good
+
+gu'el - bad, wrong
+
+lil o'xacō agzapaca - I read beautifully that good book
 
 # questions
 
